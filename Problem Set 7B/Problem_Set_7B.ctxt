@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Problem_Set_7B
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=java.util.ArrayList\ sieve(int)
+comment3.params=n
+comment3.target=java.util.ArrayList\ goldbach(int)
+comment4.params=one\ two
+comment4.target=java.util.ArrayList\ add(java.util.ArrayList,\ java.util.ArrayList)
+numComments=5
